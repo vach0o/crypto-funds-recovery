@@ -217,4 +217,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update: Fixed broken url, now accessible
+
+
+Update: Secure URLs
